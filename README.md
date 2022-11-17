@@ -2,10 +2,8 @@
 Berikut adalah beberapa sumber/referensi yang saya manfaatkan selama belajar data analytics maupun data science. Untuk mempelajari data secara keseluruhan, akan dilampirkan juga bahan-bahan fundamental seperti materimatika dan statistik.
 
 Terima kasih dan selamat belajar!
-
 Salam
-
-*[Rama](github.com/rizqrama)*
+*[Rama](github.com/rizqrama) - penyusun*
 
 
 ## 1. Matematika
