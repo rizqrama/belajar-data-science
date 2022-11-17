@@ -6,7 +6,7 @@ Salam
 *[Rama](github.com/rizqrama)*
 
 ## 1. Matematika
-Rekomendasi referensi didapatkan dari [Nasrulloh R. B. Satrio Loka](https://scholar.google.com/citations?user=bA9vjiAAAAAJ&hl=en) (Mas Loka [GitHub]()). Beliau yang saat ini sedang menempuh S3 di Belgia, juga menambahkan beberapa komentar terkait sumber-sumber yang diberikan
+Rekomendasi referensi didapatkan dari [Nasrulloh R. B. Satrio Loka](https://scholar.google.com/citations?user=bA9vjiAAAAAJ&hl=en) (Mas Loka [GitHub](https://github.com/satrialoka)). Beliau yang saat ini sedang menempuh S3 di Belgia, juga menambahkan beberapa komentar terkait sumber-sumber yang diberikan
 
 ### 1.1 Calculus
 - Calculus Made easy - Thompson
